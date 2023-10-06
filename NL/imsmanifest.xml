@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><manifest xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" identifier="com.trivantis.cenariovr" version="1.0" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd                               http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd                               http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+
+  <organizations default="com.trivantis.cenariovr-org">
+    <organization identifier="com.trivantis.cenariovr-org">
+      <title>Greenpeace Tour Artic Sunrise</title>
+      <item identifier="com.trivantis.cenariovr-A001" identifierref="A001">
+        <title>Greenpeace Tour Artic Sunrise</title>
+        <adlcp:maxtimeallowed>00:00:00</adlcp:maxtimeallowed>
+        <adlcp:masteryscore>75</adlcp:masteryscore>
+        <adlcp:timelimitaction>continue,no message</adlcp:timelimitaction>
+      </item>
+      <metadata>
+        <schema>ADL SCORM</schema>
+        <schemaversion>1.2</schemaversion>
+      </metadata>
+    </organization>
+  </organizations>
+  <resources>
+    <resource adlcp:scormtype="sco" href="index.html" identifier="A001" type="webcontent">
+      <dependency identifierref="launch_assets"/>
+    <file href="media/029c0180-7229-42f9-b102-ede147486f49.png"/><file href="media/73b8e41d-007e-4889-8559-b9f154ee5051.mp3"/><file href="media/446356ca-ef26-4d7c-9381-7ec692bd9113.png"/><file href="media/a6144b36-cb89-49a9-b9ba-32091bbdcb7b.png"/><file href="media/0680b7b9-80b3-4a07-a984-37c3f8754efb.png"/><file href="media/2cbbc116-d8cf-4174-89dd-963352ed454e.png"/><file href="media/a0b1869e-c0a0-4665-a56c-b302e1ab2a4b.png"/><file href="media/d56b6bb2-293a-47b1-b0e3-6bef1a949802.png"/><file href="media/556e880e-a6bf-40ba-9ab7-f05334099730.png"/><file href="media/521a558b-3f41-4707-88cb-908c5649578e.png"/><file href="media/19d4ba63-7e6d-4548-847a-05dd01bd4789.png"/><file href="media/3ce01ad3-4204-4b51-89a7-4665b2f49653.png"/><file href="media/02d205e9-6ebb-442d-b0b2-b8221350d867.mp3"/><file href="scene/9e0519e3-de75-4643-9e08-6c6676873acb.mp4"/><file href="media/e68a2588-b8fd-416d-9fe4-9d6820645557.png"/><file href="media/a5ccb880-6a68-4dc5-9674-6f646fb2357a.png"/><file href="media/f7ca9a75-6125-45f6-b136-34574871be0f.mp3"/><file href="media/85c23678-e797-46fe-b174-dd431ff6820f.mp3"/><file href="media/70415c1f-8b8f-41fb-b4e5-3d00933179b0.png"/><file href="scene/c0fdf563-d65e-44e4-9040-06faab318902.jpg"/><file href="media/a0588be3-d158-4549-8a7d-4d94cdf8c11c.mp3"/><file href="media/c35cfd12-b894-4b2e-9f84-8bff00dfe978.mp3"/><file href="scene/791b6f72-96ad-4b26-8846-4ddb3f24fa8d.mp4"/><file href="media/3a4eb1ed-41d7-493c-a7bd-b209dedaf37d.png"/><file href="media/446d2b3c-eb92-4375-9a66-f40a6f76cb95.png"/><file href="media/764eeaa9-1f22-42f7-8ddc-53b003133f5f.png"/><file href="media/48e9ab88-1626-4d44-b968-434719fee4da.png"/><file href="media/c61ff395-8fcc-4d47-9c3c-42945874a8d0.mp3"/><file href="media/cd4ea78d-dae2-4cf1-bb62-e64c9f363481.png"/><file href="media/938b7ac4-9dba-462d-8fd7-f27beb9b2abb.png"/><file href="scene/4506ac5f-b49b-4c5c-80b8-df5dd05e6586.mp4"/><file href="media/f6b91653-6109-4ea3-b9b2-2dc3bfdb00b1.mp3"/><file href="media/fa4630d2-9a38-459d-ab9f-ebb6cfc1116a.png"/><file href="media/6f302e65-31b2-44ce-b45b-c5b8d9d6c8a6.png"/><file href="media/6395b81d-b466-4da6-bd4e-f614ffb03567.mp3"/><file href="media/17a3f5c6-c146-4c90-88c1-a0c088fed64f.mp3"/><file href="media/6692c1fc-7460-4fa2-8d9f-406ac207e86f.png"/><file href="scene/b3a061f4-dadc-4264-a949-c0567bf877dd.mp4"/><file href="media/cad3f2d1-8a0d-4ea8-96be-85a543db5293.png"/><file href="media/241f7d95-59d1-408a-b43f-a2d68f1012a6.png"/><file href="media/08e67192-f7ab-4d90-936f-5c26f99b1acc.png"/><file href="media/e182d338-63be-49ed-8115-82168566aa28.mp3"/><file href="media/9268ac62-c220-4b79-9bf3-b0acb1090e9b.png"/><file href="media/97dc2346-bc5a-432f-9640-2374ce343d28.mp3"/><file href="media/13ccf460-01a9-4aff-9726-baeca88839af.png"/><file href="media/dc9983ed-722e-4ae9-b3c2-d32b30a6b5a0.png"/><file href="media/2d81dfe0-cfe7-4518-9ea8-536c0364b4e7.png"/><file href="media/4e2abe30-d76b-4c24-9cfb-af90f7aea1cb.png"/><file href="media/65976b7b-84f7-40c1-918e-b9d511650b79.png"/><file href="media/8fee7c51-0a21-4042-9f85-25fad3e69b21.mp3"/><file href="media/db62bd9d-860f-48e3-ae98-bc1e04dd5604.png"/><file href="scene/7aff4c82-053e-4fa0-8080-cf51955e168f.mp4"/><file href="scene/751b7788-0297-41bf-8ff9-f1ed0ec470d7.mp4"/><file href="scene/4cff71af-52c4-41eb-983f-f78da4399300.jpg"/><file href="media/97e425c1-30f8-46a8-a652-7af7b2c8b129.mp3"/><file href="media/24e30127-3790-4473-8133-f13f14893a41.mp3"/><file href="media/d85da4fa-8e2b-448b-b41a-f2f2c216e30d.mp3"/><file href="scene/d32cc8f4-5b19-4016-a5d1-0f44fd40c5fb.jpg"/><file href="media/af836722-a235-484c-8d70-2ba843e020a5.png"/><file href="scene/1ebd78c4-5ed9-4ceb-a4dd-098db9c5824a.jpg"/><file href="scene/22bb8981-b3e4-4eed-b09f-65da789d4a9e.jpg"/><file href="media/8755e430-42f5-4d17-964d-7c2fa965a1ae.mp3"/><file href="scene/c40ad243-fd12-4537-810b-bad275ae02f1.mp4"/></resource>
+    <resource adlcp:scormtype="asset" identifier="launch_assets" type="webcontent">
+      <file href="index.html"/>
+      <file href="scenario.json"/>
+      <file href="dist/embed.js"/>
+      <file href="dist/frame.css"/>
+      <file href="dist/frame.html"/>
+      <file href="dist/iris.js"/>
+      <file href="dist/SCORM_API_wrapper.js"/>
+      <file href="dist/three.js"/>
+      <file href="dist/vrview.js"/>
+      <file href="dist/xapiwrapper.min.js"/>
+      <file href="dist/img/ic_info_outline_black_24dp.svg"/>
+      <file href="dist/img/ic_pause_black_24dp.svg"/>
+      <file href="dist/img/ic_play_arrow_black_24dp.svg"/>
+      <file href="dist/img/ic_play_arrow_white_24dp.svg"/>
+      <file href="dist/img/ic_volume_off_black_24dp.svg"/>
+      <file href="dist/img/ic_volume_up_black_24dp.svg"/>
+      <file href="dist/img/loading.gif"/>
+      <file href="dist/img/logo-no-goggles-dark.svg"/>
+      <file href="dist/img/slant-header.svg"/>
+      <file href="dist/media/blank.mp4"/>
+      <file href="dist/media/click.wav"/>
+      <file href="dist/media/hover.wav"/>
+      <file href="dist/media/hover1.ogg"/>
+      <file href="dist/media/littlething.wav"/>
+      <file href="dist/img/watermark.png"/>
+      <file href="dist/img/hotspots/alert.png"/>
+      <file href="dist/img/hotspots/arrowdown.png"/>
+      <file href="dist/img/hotspots/arrowleft.png"/>
+      <file href="dist/img/hotspots/arrowright.png"/>
+      <file href="dist/img/hotspots/arrowup.png"/>
+      <file href="dist/img/hotspots/close.png"/>
+      <file href="dist/img/hotspots/done.png"/>
+      <file href="dist/img/hotspots/menu.png"/>
+      <file href="dist/img/hotspots/pin.png"/>
+      <file href="dist/img/hotspots/play.png"/>
+      <file href="dist/img/hotspots/star.png"/>
+
+    </resource>
+  </resources>
+</manifest>
